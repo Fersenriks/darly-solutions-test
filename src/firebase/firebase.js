@@ -8,13 +8,7 @@ import {
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBvf469pKYfU4al1jHfsCliyN_XB1bQtaE",
-    authDomain: "darly-solutions-test-856c1.firebaseapp.com",
-    projectId: "darly-solutions-test-856c1",
-    storageBucket: "darly-solutions-test-856c1.appspot.com",
-    messagingSenderId: "746448033563",
-    appId: "1:746448033563:web:a5dd07ab5213ac5eb365be",
-    measurementId: "G-BDEME1247E"
+//     don't exist :)
 };
 
 const app = initializeApp(firebaseConfig);
